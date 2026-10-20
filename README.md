@@ -5,7 +5,7 @@
 
 I'm a software developer based in Santiago, Chile, with nearly 5 years of professional experience building and supporting enterprise applications, particularly in banking, financial systems, and payment integrations.
 
-At Indra, I worked with Java, Spring Boot, Quarkus, Angular, and TypeScript, developing REST APIs, middleware services, and web applications for financial platforms.
+I worked with Java, Spring Boot, Quarkus, Angular, and TypeScript, developing REST APIs, middleware services, and web applications for financial platforms.
 
 ---
 
